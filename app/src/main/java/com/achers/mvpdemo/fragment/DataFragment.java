@@ -35,6 +35,5 @@ public class DataFragment extends BaseFragment {
 
     @Override
     public void initData() {
-        UIUtils.showToast("data");
     }
 }
